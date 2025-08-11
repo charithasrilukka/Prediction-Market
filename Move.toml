@@ -4,6 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
+charitha_addr="6505a87e80fa3e51813c3674985021e0fad96fa3ea2440212b1850e0bbb5f8ae"
 
 [dev-addresses]
 
